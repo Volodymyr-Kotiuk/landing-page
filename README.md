@@ -2,7 +2,7 @@
 
 # Landing page
 # Description:
-This repository contains the code for creating an effective and attractive landing page. A landing page is a key element of web marketing that helps attract the attention of the target audience and convert visitors into customers or participants of your product, service, or event.
+This repository contains the code of effective and attractive landing page. A landing page is a key element of web marketing that helps attract the attention of the target audience and convert visitors into customers or participants of your product, service, or event.
 
 # Key Features:
 - Unique Proposition: Utilization of vibrant and appealing design for effectively communicating the unique proposition of your product or service.
